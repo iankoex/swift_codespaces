@@ -1,7 +1,7 @@
 # Created by taki-on based on
 # https://github.com/microsoft/vscode-dev-containers/blob/master/containers/swift-4/.devcontainer/Dockerfile
 
-FROM swift:5.2.4
+FROM swift:5.7-focal
 
 ARG USERNAME=me
 ARG USER_UID=1000
